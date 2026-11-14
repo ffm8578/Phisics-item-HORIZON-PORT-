@@ -1,3 +1,0 @@
-[workspace]
-members = ["mixins/itemphysic_lite"]
-resolver = "2"
